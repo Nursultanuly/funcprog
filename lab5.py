@@ -1,4 +1,4 @@
-''''''
+'''
 a = ["Nursultanuly", "Daulet", "21", "Almaty", "SU"]
 b = ["Tegi: ", "Aty: ", "Jasy: ", "Kalasy: ",  "Univer: "]
 print(a)
@@ -6,7 +6,7 @@ print(b)
 a.append("87077819761")
 b.append("Nomer: ")
 print(b[0] + a[0],"\n" + b[1]+ a[1],"\n" + b[2]+a[2],"\n" + b[3]+a[3],"\n" +  b[4]+a[4], "\n" +  b[5]+a[5])
-''''''
+'''
 '''
 sandar = []
 san = input("butin san engiz(0 sony): ")
