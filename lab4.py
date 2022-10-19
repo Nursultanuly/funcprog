@@ -14,14 +14,16 @@ line = a.replace('12', ':')
 print(line)
 '''
 '''
-b = "Atalanta"
+b = "At al anta"
 #k = b.lower()
-#m = b.title()
+m = b.title()
 t = "a"
-count = b.count(t)
+count = k.count(t)
 print(count)
 '''
 '''
-c = "almaty"
+c = "almaty keremet kala"
 print(c.capitalize())
+v = c.title()
+print(v)
 '''
